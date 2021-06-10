@@ -1,0 +1,15 @@
+README.md
+setup.py
+python_curve25519_local_curve25519.egg-info/PKG-INFO
+python_curve25519_local_curve25519.egg-info/SOURCES.txt
+python_curve25519_local_curve25519.egg-info/dependency_links.txt
+python_curve25519_local_curve25519.egg-info/top_level.txt
+source/curve25519_dh.c
+source/curve25519_mehdi.c
+source/curve25519_order.c
+source/curve25519_utils.c
+source/curve25519module.c
+source/custom_blind.c
+source/ed25519_sign.c
+source/ed25519_verify.c
+source/sha512.c
